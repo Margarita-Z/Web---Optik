@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    /*font-family: 'Roboto Slab', serif;*/
+  }
+  
+  html {
+    height: 100%;
+  }
+  
+  body {
+    width: 100%;
+    height: 100%;
+    background: #F8F7F2 0% 0% no-repeat padding-box;
+  }
